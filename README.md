@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job<br>🌱 I’m currently learning Swift<br>💬 Ask me about Python
+🔭 Backend Developer at MegaFon<br>🌱 I’m currently learning FastApi<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:
