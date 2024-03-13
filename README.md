@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend Developer at MegaFon<br>🌱 I’m currently learning FastApi<br>💬 Ask me about Python
+🔭 Backend Developer at MegaFon<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:
